@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293424639782",
+    "firebase_url": "https://motostrana-d08ed-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "motostrana-d08ed",
+    "storage_bucket": "motostrana-d08ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293424639782:android:f67f367c78f8e1a0479be7",
+        "android_client_info": {
+          "package_name": "com.elpablo.motostrana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293424639782-f07fbfcafquhntblrh2h1vjs150f9ctc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elpablo.motostrana",
+            "certificate_hash": "85bdbce4f036c841ba21b0eb379d521f525e390e"
+          }
+        },
+        {
+          "client_id": "293424639782-dgl18dc6k8aepbuem36ecssdeh1g7rg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgTSbKvK9YNcb5nzE3JmprrctdbVdLJsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293424639782-dgl18dc6k8aepbuem36ecssdeh1g7rg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
